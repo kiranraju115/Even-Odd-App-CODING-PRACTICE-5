@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.header {
+  color: #0f172a;
+  font-size: 32px;
+}
+.para {
+  color: #334155;
+  font-size: 30px;
+}
+.button {
+  color: #1e293b;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
